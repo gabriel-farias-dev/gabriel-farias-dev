@@ -13,5 +13,5 @@ Here, you'll find code for generating random datasets, BI dashboards as part of 
 - Data Analyst
 - Web Developer with Django
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielFzDev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gabriel's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFzDev&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-farias-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gabriel's GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFzDev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
