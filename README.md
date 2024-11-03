@@ -4,6 +4,8 @@
 
 I'm a Data Analyst, Data Engineer, and Python Developer. Currently, I work with Power BI to create dashboards and visualizations that drive better performance in Supply Chain and Financial Management. My specialty is building ETLs in Python, Databricks, and PL/SQL, with a focus on optimizing application performance.
 
+Since 2020, helping companies add value through analysis and creating valuable insights.
+
 Here, you'll find code for generating random datasets, BI dashboards as part of my portfolio, and web projects.
 
 **About Me**
